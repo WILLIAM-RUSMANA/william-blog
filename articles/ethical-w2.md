@@ -1,7 +1,7 @@
 ---
 title: "Week 2 - Target Scoping & Information Gathering"
 category: "Ethical Hacking Course With Sir Kalpin"
-date: "01/04/2026"
+date: "13/04/2026"
 ---
 
 Week 2 was more of a continuation on from Week 1, and the same principle was emphasized: scope then harvest. Once again, the same tools were employed, and more "hands on" work done with them-Whois, Host, harvesting email addresses using Google Groups and HTTP fingerprinting using GET requests.

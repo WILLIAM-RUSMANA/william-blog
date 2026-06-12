@@ -1,7 +1,7 @@
 ---
 title: "Week 1 Journal - Introduction to Ethical Hacking"
 category: "Ethical Hacking Course With Sir Kalpin"
-date: "01/04/2026"
+date: "06/02/2026"
 ---
 
 <h1>Target Scoping & Information Gathering</h1>
